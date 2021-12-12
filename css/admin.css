@@ -1,0 +1,119 @@
+/* admin taijul */
+*{
+    margin: 0;
+    padding:  0;
+ 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.wrapper{
+    
+    padding: 1%;
+    width: 80%;
+    margin: 0 auto;
+}
+.text-center{
+    text-align: center;
+}
+.clearfix{
+    float: none;
+    clear: both;
+}
+/* css for menu */
+.menu{
+    border-bottom: 1px solid gray;
+}
+.menu ul {
+    list-style-type: none;
+}
+.menu ul li{
+    display: inline;
+    padding: 1%;
+}
+.menu ul li a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #ff6b81;
+}
+.menu ul li a:hover{
+    color: #ff6b81;
+}
+/* button */
+.btn-primary{
+    background-color: #1e90ff;
+    padding: 1%;
+    color: #dddddd;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.btn-primary:hover{
+    background-color: #3742fa;
+}
+.btn-secondary{
+    background-color: #7bed9f;
+    padding: 1%;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.btn-secondary:hover{
+    background-color: #2ed573;
+}
+.btn-danger{
+    background-color: #d43519;
+    padding: 1%;
+    color: #dddddd;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 15px;
+}
+.btn-danger:hover{
+    background-color: #d57f2e;
+}
+/* .success h1{
+    color: #2ed573!important;
+}
+.error{
+    color: #d43519;
+} */
+/* admin table */
+.tbl-full {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+.tbl-30{
+    width: 30%;
+}
+/* css for main contentent */
+
+.main-content{
+ 
+    background-color: #dfe6e9;
+    padding:  3% 0;
+}
+.col-4{
+    width: 18%;
+    background-color: rgb(240, 236, 230);
+    margin: 1%;
+    padding: 2%;
+    float: left;
+}
+/* foooter css */
+.footer{
+    background-color: #636e72;
+    color: aliceblue;
+}
+/* css for login */
