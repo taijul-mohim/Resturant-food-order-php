@@ -77,7 +77,7 @@
                     <div class="order-label">Address</div>
                     <textarea name="address" rows="10" placeholder="E.g. Street, City, Country" class="input-responsive" required></textarea>
 
-                    <input type="submit" name="submit" value="Confirm Order" class="btn btn-primary">
+                    <input type="submit" name="submit" value="Contact us" class="btn btn-primary">
                 </fieldset>
 
             </form>
