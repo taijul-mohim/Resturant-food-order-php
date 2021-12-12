@@ -2,7 +2,7 @@
     <!-- main contain section start  -->
     <div class="main-content">
         <div class="wrapper">
-          <h1>Add admin</h1>
+          <h1>update admin</h1>
           <br>
           <?php 
            $id=$_GET['id'];

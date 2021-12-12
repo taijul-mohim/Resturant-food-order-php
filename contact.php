@@ -30,7 +30,7 @@
                     <div class="order-label">Comments</div>
                     <textarea name="coment" rows="10" placeholder="E.g. Street, City, Country" class="input-responsive" required></textarea>
 
-                    <input type="submit" name="submit" onclick="myFunction()" value="Confirm Order" class="btn btn-primary">
+                    <input type="submit" name="submit" onclick="myFunction()" value="Contact us" class="btn btn-primary">
                     <div id="snackbar">Added successfully</div>
                 </fieldset>
 
