@@ -4,7 +4,7 @@ session_start();
 $servername = "localhost";
 $username = "root";
 $password = "";
-$db="food-order";
+$db="food_order";
 
 // Create connection
 $conn = new mysqli($servername, $username, $password,$db);
