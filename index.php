@@ -18,11 +18,6 @@
     echo $_SESSION['order'];
     unset($_SESSION['order']); 
   }
-
-
-
-
-
 ?>
 
 

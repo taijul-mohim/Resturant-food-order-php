@@ -86,6 +86,7 @@
     <td><?php echo $adress ?> </td>
     <td>
       <a class="btn-secondary" href="update-order.php?id=<?php echo $id?>">Update Order</a>
+      <a class="btn-secondary" href="delete-order.php?id=<?php echo $id?>">Delete Order</a>
     </td>
   </tr>
   <?php }?> 
